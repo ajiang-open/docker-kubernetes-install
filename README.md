@@ -3,7 +3,7 @@
 
 ## 拉取镜像并启用kubernetes
 
-首先需要拉取kubernetes所需镜像（在kubernetes/install目录下执行load_images.sh文件）：
+首先需要拉取kubernetes所需镜像（执行load_images.sh文件）：
 ```bash
 sh load_images.sh
 ```
