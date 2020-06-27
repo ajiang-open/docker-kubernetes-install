@@ -1,5 +1,5 @@
 #!/bin/bash
-file="images"
+file="images-edge"
 if [ -f "$file" ]
 then
   echo "$file found."
