@@ -13,5 +13,5 @@ kubeadm config images list
 ```
 或者，在对应的kubernetes的github仓库里选择对应的tag：
 * etcd版本在 https://github.com/kubernetes/kubernetes/blob/master/cluster/images/etcd/Makefile 文件里找版本号（注意版本号后要加-0）
-* pause版本在https://github.com/kubernetes/kubernetes/blob/master/build/pause/Makefile里找
-* coredns版本在https://github.com/coredns/deployment/blob/master/kubernetes/CoreDNS-k8s_version.md里找。
+* pause版本在https://github.com/kubernetes/kubernetes/blob/master/build/pause/Makefile 里找
+* coredns版本在https://github.com/coredns/deployment/blob/master/kubernetes/CoreDNS-k8s_version.md 里找。
