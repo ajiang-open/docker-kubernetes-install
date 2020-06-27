@@ -1,5 +1,5 @@
 # docker-kubernetes-install
-无需科学上网，安装docker版本的kubernetes，包括Desktop版本
+无需科学上网，安装docker版本的kubernetes，包括Desktop版本。当前的版本支持Docker Edge 2.3.2.0。
 
 ## 拉取镜像并启用kubernetes
 
