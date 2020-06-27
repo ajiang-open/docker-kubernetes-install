@@ -12,7 +12,7 @@ sh load_images.sh
 kubeadm config images list
 ```
 或者，在对应的kubernetes的github仓库里选择对应的tag：
-* kubernetes版本在docker的有关信息中找到，如在桌面版中，点击docker图标下拉菜单里的About Docker Desktop，弹出的界面里就有k8s的版本号。
+* kubernetes版本可以在docker的有关信息中找，如在桌面版中，点击docker图标下拉菜单里的About Docker Desktop，弹出的界面里就有k8s的版本号。
 * etcd版本在 https://github.com/kubernetes/kubernetes/blob/master/cluster/images/etcd/Makefile 文件里找版本号（注意版本号后要加-0）。
 * pause版本在https://github.com/kubernetes/kubernetes/blob/master/build/pause/Makefile 里找。
 * coredns版本在https://github.com/coredns/deployment/blob/master/kubernetes/CoreDNS-k8s_version.md 里找。
