@@ -1,7 +1,7 @@
 # docker-kubernetes-install
 无需科学上网，安装docker版本的kubernetes，包括Desktop版本。当前支持Docker的版本如下：
-* Stable:2.3.0.3
-* Edge:2.3.3.1
+* Stable:2.3.0.4
+* Edge:2.3.4.0
 
 ## 拉取镜像并启用kubernetes
 
